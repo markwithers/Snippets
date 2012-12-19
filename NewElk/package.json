@@ -1,0 +1,20 @@
+{
+  "name": "NewElk",
+  "preferGlobal": "true",
+  "version": "0.0.1",
+  "author": "Mark Withers",
+  "description": "New Elk",
+  "keywords": [
+    "Elk",
+    "http",
+    "server"
+  ],
+  "main": "./server.js",
+  "noAnalyze": true,
+  "bundleDependencies": [
+  ],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.4"
+  }
+}

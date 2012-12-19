@@ -1,0 +1,68 @@
+<html>
+<head>
+	<title>Test</title>
+</head>
+<body>
+	This is a test
+	<script src='http://code.jquery.com/jquery-1.8.2.min.js'></script>
+	<script src='http://code.jquery.com/ui/1.9.1/jquery-ui.js'></script>
+	<script>
+		function lightning(){
+			        var overlay = $('<div>');
+	        overlay.css({
+	            position: 'absolute',
+	            top: 0,
+	            left: 0,
+	            'background-color': '#000',
+	            width: '100%',
+	            height: '100%',
+	            'z-index': 10000000
+	        });
+
+	        var lightning1 = $('<img>').attr('src', 'ligtning1.png').css({ display: 'none' });
+	        var lightning2 = $('<img>').attr('src', 'ligtning2.png').css({ display: 'none' });
+
+	        var lightning3 = $('<img>').attr('src', 'ligtning3.png').css({ display: 'none', float: 'right' });
+	        var lightning4 = $('<img>').attr('src', 'ligtning4.png').css({ display: 'none', float: 'right' });
+
+	        overlay.append(lightning1);
+	        overlay.append(lightning2);
+
+	       	overlay.append(lightning3);
+	        overlay.append(lightning4);
+	  
+	        $('body').append(overlay);
+
+	        overlay
+	            .delay(500)
+	            .animate({ opacity: 0 }, 100, function () { lightning1.show(); })
+	            .animate({ opacity: 100 }, 50)
+	            .animate({ opacity: 0 }, 100)
+	            .animate({ opacity: 100 }, 50, function () { lightning1.hide(); lightning2.show(); })
+	            .delay(500)
+	            .animate({ opacity: 0 }, 100)
+	            .animate({ opacity: 100 }, 100)
+	            .delay(700)
+	            .animate({ opacity: 0 }, 100, function () { lightning3.show(); })
+	            .animate({ opacity: 100 }, 50)
+	            .animate({ opacity: 0 }, 100)
+	            .animate({ opacity: 100 }, 50)
+	            .animate({ opacity: 0 }, 100)
+	            .animate({ opacity: 100 }, 50, function () { lightning3.hide(); lightning4.show(); })
+	            .delay(500)
+	            .animate({ opacity: 0 }, 4000, function () {
+	                overlay.remove();
+	            });
+		}
+		
+		$(document).ready(function(){
+		    $(document).keyup(function (evt) {
+				alert(evt.keyCode);
+				if (evt.altKey && evt.keyCode == 223) {
+					lightning();
+				}
+			});
+		});
+	</script>
+</body>
+</html>

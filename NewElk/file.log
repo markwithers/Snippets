@@ -1,0 +1,326 @@
+[Mon Sep 03 2012 17:12:45 GMT+0100 (GMT Daylight Time)] ERROR Invalid column name 'kctcmwithers'.
+[Mon Sep 03 2012 17:15:39 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:16:10 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:18:39 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:19:09 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:19:27 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:20:29 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:21:05 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:23:43 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:23:58 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:26:08 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:26:44 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:28:04 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:28:29 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:29:25 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:29:38 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Request> has no method 'done'
+[Mon Sep 03 2012 17:48:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:48:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:48:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:48:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:48:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:48:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:49:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:50:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:50:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:50:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:50:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:50:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 17:54:23 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 101
+[Mon Sep 03 2012 17:54:23 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 101
+[Mon Sep 03 2012 21:45:07 GMT+0100 (GMT Daylight Time)] ERROR Login failed; one or more errorMessage events should have been emitted
+[Mon Sep 03 2012 21:45:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:45:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:45:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:45:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:45:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:45:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:46:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:47:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:48:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:49:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:50:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:50:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:50:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:50:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:50:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:50:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:52:53 GMT+0100 (GMT Daylight Time)] ERROR Database 15 cannot be autostarted during server shutdown or startup.
+[Mon Sep 03 2012 21:53:01 GMT+0100 (GMT Daylight Time)] ERROR Database 'Elk' is being recovered. Waiting until recovery is finished.
+[Mon Sep 03 2012 21:53:06 GMT+0100 (GMT Daylight Time)] ERROR Database 'Elk' is being recovered. Waiting until recovery is finished.
+[Mon Sep 03 2012 21:53:11 GMT+0100 (GMT Daylight Time)] ERROR Database 'Elk' is being recovered. Waiting until recovery is finished.
+[Mon Sep 03 2012 21:56:42 GMT+0100 (GMT Daylight Time)] ERROR Login failed; one or more errorMessage events should have been emitted
+[Mon Sep 03 2012 21:56:47 GMT+0100 (GMT Daylight Time)] ERROR Login failed; one or more errorMessage events should have been emitted
+[Mon Sep 03 2012 21:57:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:57:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:07 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:12 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:17 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:22 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:27 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:32 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:37 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:42 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:47 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:58:57 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 21:59:02 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Mon Sep 03 2012 22:01:55 GMT+0100 (GMT Daylight Time)] ERROR Database 'Elk' is being recovered. Waiting until recovery is finished.
+[Mon Sep 03 2012 22:01:56 GMT+0100 (GMT Daylight Time)] ERROR Database 'Elk' is being recovered. Waiting until recovery is finished.
+[Mon Sep 03 2012 22:02:01 GMT+0100 (GMT Daylight Time)] ERROR Database 'Elk' is being recovered. Waiting until recovery is finished.
+[Mon Sep 03 2012 22:02:07 GMT+0100 (GMT Daylight Time)] ERROR Database 'Elk' is being recovered. Waiting until recovery is finished.
+[Tue Sep 04 2012 11:18:57 GMT+0100 (GMT Daylight Time)] ERROR Must declare the scalar variable "@LastRead".
+[Tue Sep 04 2012 11:20:02 GMT+0100 (GMT Daylight Time)] ERROR Must declare the scalar variable "@LastRead".
+[Tue Sep 04 2012 11:21:17 GMT+0100 (GMT Daylight Time)] ERROR Must declare the scalar variable "@LastRead".
+[Tue Sep 04 2012 11:21:34 GMT+0100 (GMT Daylight Time)] ERROR Must declare the scalar variable "@LastRead".
+[Tue Sep 04 2012 11:22:23 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:22:48 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:26:58 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object function (data){
+		res.send(data)
+	} has no method 'getTime'
+[Tue Sep 04 2012 11:30:46 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object function (data){
+		res.send(data)
+	} has no method 'getTime'
+[Tue Sep 04 2012 11:30:55 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object function (data){
+		res.send(data)
+	} has no method 'getTime'
+[Tue Sep 04 2012 11:31:19 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object function (data){
+		res.send(data)
+	} has no method 'getTime'
+[Tue Sep 04 2012 11:31:33 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object function (data){
+		res.send(data)
+	} has no method 'getTime'
+[Tue Sep 04 2012 11:37:51 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Object> has no method 'getUnreadCountByDate'
+[Tue Sep 04 2012 11:38:20 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Object> has no method 'getUnreadCountByDate'
+[Tue Sep 04 2012 11:38:57 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Object> has no method 'getUnreadCountByDate'
+[Tue Sep 04 2012 11:39:26 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Object> has no method 'getUnreadCountByDate'
+[Tue Sep 04 2012 11:40:26 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Object> has no method 'getUnreadCountByDate'
+[Tue Sep 04 2012 11:41:40 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:42:13 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:42:17 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:42:19 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:42:23 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:42:26 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:46:31 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:47:01 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:47:15 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: useName is not defined
+[Tue Sep 04 2012 11:48:00 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:49:03 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:49:14 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:49:24 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:49:42 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:50:27 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:50:41 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: row is not defined
+[Tue Sep 04 2012 11:50:51 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:50:54 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:50:54 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:50:56 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:50:56 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:50:56 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:52:18 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 11:52:18 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: No event 'connectTimeout' in state 'LoggedInSendingInitialSql'
+[Tue Sep 04 2012 11:52:35 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:52:35 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 11:52:35 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 11:52:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 11:52:52 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: No event 'connectTimeout' in state 'LoggedInSendingInitialSql'
+[Tue Sep 04 2012 11:52:52 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 11:52:52 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: No event 'connectTimeout' in state 'LoggedInSendingInitialSql'
+[Tue Sep 04 2012 11:52:58 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:52:58 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:53:35 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:53:35 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:53:35 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:53:57 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:53:57 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:53:57 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:53:57 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: Can't set headers after they are sent.
+[Tue Sep 04 2012 11:59:20 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 11:59:20 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: No event 'connectTimeout' in state 'LoggedInSendingInitialSql'
+[Tue Sep 04 2012 11:59:20 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 11:59:20 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: No event 'connectTimeout' in state 'LoggedInSendingInitialSql'
+[Tue Sep 04 2012 11:59:20 GMT+0100 (GMT Daylight Time)] ERROR timeout : failed to connect to live.sql.bds.kctc.co.uk:1433 in 15000ms
+[Tue Sep 04 2012 12:20:22 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 109
+[Tue Sep 04 2012 12:20:22 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 109
+[Tue Sep 04 2012 12:20:37 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 110
+[Tue Sep 04 2012 12:20:37 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 110
+[Tue Sep 04 2012 12:35:33 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 111
+[Tue Sep 04 2012 12:35:33 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 111
+[Tue Sep 04 2012 12:35:43 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 112
+[Tue Sep 04 2012 12:35:43 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 112
+[Tue Sep 04 2012 14:00:28 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 115
+[Tue Sep 04 2012 14:00:28 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 115
+[Tue Sep 04 2012 14:01:23 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 116
+[Tue Sep 04 2012 14:01:23 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 116
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 120
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 121
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 122
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 123
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 120
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 121
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 122
+[Tue Sep 04 2012 14:02:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 123
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 124
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 125
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 126
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 127
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 124
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 125
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 126
+[Tue Sep 04 2012 14:03:33 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 127
+[Tue Sep 04 2012 14:03:38 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 128
+[Tue Sep 04 2012 14:03:38 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 128
+[Tue Sep 04 2012 14:04:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 129
+[Tue Sep 04 2012 14:04:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 130
+[Tue Sep 04 2012 14:04:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 131
+[Tue Sep 04 2012 14:04:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 129
+[Tue Sep 04 2012 14:04:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 130
+[Tue Sep 04 2012 14:04:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 131
+[Tue Sep 04 2012 14:05:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 132
+[Tue Sep 04 2012 14:05:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 133
+[Tue Sep 04 2012 14:05:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 134
+[Tue Sep 04 2012 14:05:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 132
+[Tue Sep 04 2012 14:05:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 134
+[Tue Sep 04 2012 14:05:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 133
+[Tue Sep 04 2012 14:05:38 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 135
+[Tue Sep 04 2012 14:05:38 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 135
+[Tue Sep 04 2012 14:06:33 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 137
+[Tue Sep 04 2012 14:06:33 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 138
+[Tue Sep 04 2012 14:06:33 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 137
+[Tue Sep 04 2012 14:06:33 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 138
+[Tue Sep 04 2012 14:06:58 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 139
+[Tue Sep 04 2012 14:06:58 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 140
+[Tue Sep 04 2012 14:06:58 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 139
+[Tue Sep 04 2012 14:06:58 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 140
+[Tue Sep 04 2012 14:07:03 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 142
+[Tue Sep 04 2012 14:07:03 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 142
+[Tue Sep 04 2012 14:07:38 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 144
+[Tue Sep 04 2012 14:07:38 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 144
+[Tue Sep 04 2012 14:15:36 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 147
+[Tue Sep 04 2012 14:15:36 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 147
+[Tue Sep 04 2012 14:16:36 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 148
+[Tue Sep 04 2012 14:16:36 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 148
+[Tue Sep 04 2012 14:17:46 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 149
+[Tue Sep 04 2012 14:17:46 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 149
+[Tue Sep 04 2012 14:22:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 151
+[Tue Sep 04 2012 14:22:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 151
+[Tue Sep 04 2012 14:22:28 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 152
+[Tue Sep 04 2012 14:22:28 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 152
+[Tue Sep 04 2012 14:23:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 153
+[Tue Sep 04 2012 14:23:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 154
+[Tue Sep 04 2012 14:23:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 155
+[Tue Sep 04 2012 14:23:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 154
+[Tue Sep 04 2012 14:23:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 155
+[Tue Sep 04 2012 14:23:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 153
+[Tue Sep 04 2012 14:23:13 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 156
+[Tue Sep 04 2012 14:23:13 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 156
+[Tue Sep 04 2012 14:23:23 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 157
+[Tue Sep 04 2012 14:23:23 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 157
+[Tue Sep 04 2012 14:23:53 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 158
+[Tue Sep 04 2012 14:23:53 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 158
+[Tue Sep 04 2012 14:23:58 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 159
+[Tue Sep 04 2012 14:23:58 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 160
+[Tue Sep 04 2012 14:23:58 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 159
+[Tue Sep 04 2012 14:23:58 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 160
+[Tue Sep 04 2012 14:25:13 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 161
+[Tue Sep 04 2012 14:25:13 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 161
+[Tue Sep 04 2012 14:27:03 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 162
+[Tue Sep 04 2012 14:27:03 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 162
+[Tue Sep 04 2012 14:28:08 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 163
+[Tue Sep 04 2012 14:28:08 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 163
+[Tue Sep 04 2012 14:31:11 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 164
+[Tue Sep 04 2012 14:31:11 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 165
+[Tue Sep 04 2012 14:31:11 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 164
+[Tue Sep 04 2012 14:31:11 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 165
+[Tue Sep 04 2012 14:31:36 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 166
+[Tue Sep 04 2012 14:31:36 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 166
+[Tue Sep 04 2012 14:32:16 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 169
+[Tue Sep 04 2012 14:32:16 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 169
+[Tue Sep 04 2012 14:32:41 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 171
+[Tue Sep 04 2012 14:32:41 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 171
+[Tue Sep 04 2012 14:34:06 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 173
+[Tue Sep 04 2012 14:34:06 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 173
+[Tue Sep 04 2012 14:34:51 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 174
+[Tue Sep 04 2012 14:34:51 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 174
+[Wed Sep 05 2012 09:31:33 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<Object> has no method 'emit'
+[Wed Sep 05 2012 09:34:50 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: io is not defined
+[Wed Sep 05 2012 09:34:53 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: io is not defined
+[Wed Sep 05 2012 09:34:56 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: io is not defined
+[Wed Sep 05 2012 09:35:34 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: io is not defined
+[Wed Sep 05 2012 09:36:18 GMT+0100 (GMT Daylight Time)] ERROR crash error - ReferenceError: io is not defined
+[Tue Sep 11 2012 10:10:51 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Argument must be a string
+[Tue Sep 11 2012 10:10:56 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Argument must be a string
+[Tue Sep 11 2012 10:11:19 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Argument must be a string
+[Tue Sep 11 2012 10:11:45 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Argument must be a string
+[Tue Sep 11 2012 10:14:11 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 72
+[Tue Sep 11 2012 10:14:11 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 72
+[Tue Sep 11 2012 10:15:31 GMT+0100 (GMT Daylight Time)] DEBUG Sending - 73
+[Tue Sep 11 2012 10:15:32 GMT+0100 (GMT Daylight Time)] DEBUG Marked as sent - 73
+[Tue Sep 11 2012 10:37:19 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<SocketNamespace> has no method 'of'
+[Tue Sep 11 2012 10:37:25 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<SocketNamespace> has no method 'of'
+[Tue Sep 11 2012 10:37:28 GMT+0100 (GMT Daylight Time)] ERROR crash error - TypeError: Object #<SocketNamespace> has no method 'of'
+[Mon Oct 22 2012 15:55:04 GMT+0100 (GMT Daylight Time)] ERROR crash error - Error: write EPIPE
