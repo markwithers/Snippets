@@ -52,6 +52,7 @@ app.get('/pdf', function(req, res){
 	doc.text('Barbara Kathleen Milroy (Deceased)');
 	doc.moveDown();
 	doc.text('Thank you for your letter/fax/e-mail dated 1 May 2009.');
+	doc.text('Hi Joey');
 	
 	doc.output(function(pdf){
 		res.type('application/pdf');
